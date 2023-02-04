@@ -1,1 +1,1 @@
-> <img src="./resume.png"  width="600" height="600">
+> <img src="./resume.png"  width="500" height="800">
