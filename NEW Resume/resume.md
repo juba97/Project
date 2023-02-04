@@ -1,2 +1,1 @@
-> ![](./resume.png)
-> <img src="./resume.png"  width="600" height="300">
+> <img src="./resume.png"  width="600" height="600">
